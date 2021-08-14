@@ -1,5 +1,8 @@
 # component-for-creating-tags
 
+https://tatianakharitonovich.github.io/component-for-creating-tags/
+
+
 Создан компонент для создания тэгов:
 
 есть отдельный <input type='text' /> с возможностью добавлять новые тэги в
